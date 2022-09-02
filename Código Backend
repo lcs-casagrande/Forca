@@ -80,7 +80,7 @@ print(f'tentativas e nº de letras {tamanho}:')
 while True:
  if cont==tamanho:
   print()
-  print('PE-E-ER-D-E-D-O-RRR')
+  print('PE-E-ER-D-E-D-O-RR')
   break
  print()
  teste=input(f'{cont+1}:')[0:tamanho].upper()
