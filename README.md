@@ -1,4 +1,4 @@
-# Termo_game
+# Forca
 Jogo de adivinhar palavras
 Inspirado no jogo https://term.ooo/
 Onde uma palavra é sorteada e o jogador tem que adivinhar a palavra.
