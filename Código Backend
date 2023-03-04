@@ -66,7 +66,7 @@ banco =['não','paz','fel','tempo','vil','sob','movel','ser','céu','mal','ver',
 'discorrer','ignorante','arrogante','paciência','','adjacente','obstinado','outrossim',
 'cognitivo','instância','interesse','consoante','sintético','limítrofe','iminência','desumilde',
 'presságio','eloquente','irascível','relevante','vagabunda','ludibriar','aquisição','empecilho',
-'ambicioso','convicção','plausível','excelente','recíproca','pederasta','estagnado']
+'ambicioso','convicção','plausível','excelente','recíproca','tempestade','pederasta','estagnado']
 
 #escolher a palavra
 print('O numero de tentativas corresponde a quantidade de letra')
