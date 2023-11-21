@@ -4,7 +4,7 @@ import unidecode
 
 banco =['não','paz', 'trindade' ,'fiel','tempo','vil','sob','movel','ser','céu','mal','ver','mãe','ter','ser','ego','bem','mas','vão',
 'vir','dar','bom','ora','dom','são','era','que','réu','elo','luz','com','nós','rol','tal',
-'seu','foi','sorte','viril','mudo','até','vis','poço','pós','por','mim','lua','ato','dor','pai','dia','dou',
+'seu','foi','sorte','viril','mudo','','vis','poço','pós','por','mim','lua','ato','dor','pai','dia','dou',
 'sem','sol','pau','paz','irá','fim','tez','ler','vez','rua','tão','odeio','fiz','nem','tempo',
 'lei','mau','voo','mão','onibus','igreja','meu','voz','dês','num','pôr','for',,'fiél','rio','truco','orfã',
 'jus','cia','fez','seguro','escatologia','via','tora','ira','nau','sim','amo','sua','rei','lar','som','ido','tem',
